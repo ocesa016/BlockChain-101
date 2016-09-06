@@ -1,0 +1,102 @@
+
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style1.css">
+  </head> 
+<body>
+
+<H2>Order Informations</H2> 
+<BR>
+<iframe width="90%" src="/getinfo" name="pippoFrame" scrolling="no" frameborder="1"></iframe>
+<BR>
+
+<br><br>
+
+<form action="/doShip" method="get" target="resultframe"> 
+
+ <section>
+    <h2>Ship The Order</h2>
+    
+    <p>
+      <label for="user1">
+        <span>From:</span>
+        <select id="user1" name="from">
+          <option value="0">Zero</option>
+          <option value="1">One</option>
+          <option value="2" selected>Two</option>
+          <option value="3">Three</option>
+        </select>
+      </label>
+    </p>
+
+ </section>
+
+ <section>
+    <p>
+        <input type="submit" value="Submit">   
+    </p>
+  </section>
+
+</form>
+
+<br><br>
+
+<form action="/doReceive" method="get" target="resultframe"> 
+
+ <section>
+    <h2>Receive The Order</h2>
+    
+    <p>
+      <label for="user1">
+        <span>From:</span>
+        <select id="user1" name="from">
+          <option value="0">Zero</option>
+          <option value="1" selected>One</option>
+          <option value="2">Two</option>
+          <option value="3">Three</option>          
+        </select>
+      </label>
+    </p>
+
+ </section>
+
+ <section>
+    <p>
+        <input type="submit" value="Submit">   
+    </p>
+  </section>
+
+</form> 
+
+<br><br>
+
+<form action="/doCancel" method="get" target="resultframe"> 
+
+ <section>
+    <h2>Cancel The Order</h2>
+    
+    <p>
+      <label for="user1">
+        <span>From:</span>
+        <select id="user1" name="from">
+          <option value="0">Zero</option>
+          <option value="1" selected>One</option>
+          <option value="2">Two</option>
+          <option value="3">Three</option>          
+        </select>
+      </label>
+    </p>
+
+ </section>
+
+ <section>
+    <p>
+        <input type="submit" value="Submit">   
+    </p>
+  </section>
+
+</form> 
+
+</body>
+</html>

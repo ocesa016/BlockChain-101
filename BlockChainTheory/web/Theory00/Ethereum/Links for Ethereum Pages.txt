@@ -1,0 +1,163 @@
+• Prerelease Step 0: Olympic testnet - launched May 2015
+• Release Step One: Frontier - launched 30 July 2015
+• Release Step Two: Homestead - launches 14 March 2016 (Pi Day)
+• Release Step Three: Metropolis - TBA
+• Release Step Four: Serenity - TBA
+
+
+------------
+
+Smart contracts
+
+Would you enter in a contract with someone you’ve never met? Would you agree to lend money to some farmer in
+Ethiopia? Would you become an investor in a minority-run newspaper in a war zone? Would you go to the hassle
+of writing up a legal binding contract for a $5 dollar purchase over the internet?
+The answer is no for most of these questions, the reason being that a contract requires a large infrastructure:
+sometimes you need a working trust relationship between the two parties, sometimes you rely on a working legal
+system, police force and lawyer costs.
+In Ethereum you don’t need any of that: if all the requisites to the contract can be put in the blockchain then they
+will, in a trustless environment for almost no cost.
+Instead of thinking of moving your current contracts to the blockchain, think of all the thousand little contracts
+that you would never agree to simply because they weren’t economically feasible or there was not enough legal
+protection..
+
+DAO
+Here is just one example: imagine you own a small business with your friends. Lawyers and accountants are
+expensive, and trusting a single partner to oversee the books can be a source of tension (even an opportunity for
+fraud). Complying strictly with a system in which more than one partner oversees the books can be trying and is
+subject to fraud whenever the protocol isn’t followed exactly.
+Using a smart contract, ownership in your company and terms for the disbursal of funds can be specified at the
+outset. The smart contract can be written such that it is only changeable given the approval of a majority of owners.
+Smart contracts like these will likely be available as open source software, so you won’t even need to hire your
+own programmer instead of an accountant/lawyer.
+A smart contract like this scales instantly. A couple of teenagers can split revenue from a lemonade stand just as
+transparently as a sovereign wealth fund can disburse funds to the hundred million citizens who are entitled to it.
+In both cases the price of this transparency is likely to be fractions of a penny per dollar.
+
+---
+
+DEVCON-0 
+
+In November 2014, ETH DEV organized the DEVCON-0 event, which brought together Ethereum developers
+from around the world to Berlin to meet and discuss a diverse range of Ethereum technology topics. Several
+
+DEVCON-1
+
+The second developers’ conference DEVCON-1 took place in the city of London at the beginning of November
+2015.
+The presence of large companies like UBS, IBM and Microsoft clearly indicated enterprise interest in the technology.
+Microsoft announced that it would offer Ethereum on its new Blockchain as a Service offering on the
+Microsoft Azure cloud platform.
+
+Devcon-2
+The Ethereum Foundation welcomes Microsoft as the Premiere Sponsor of Devcon2, Shanghai 19-21 September, 2016
+
+---
+1.1.6 Community: 
+
+reddit (https://www.reddit.com/r/ethereum/)
+On the right link to list of other r..
+
+The Ethereum subreddit is the most inclusive Ethereum forum, where most of the community discussion is happening
+and where core devs are also active. This is your forum of choice for generic discussion of news, media
+coverage, announcements, brainstorming. In general all things Ethereum relevant to the wider community.
+Strictly no price discussion.
+Also, this is not the ideal place to ask for hands-on help or post questions you expect there are clear immediate
+answers to (use Gitter Rooms and Stack Exchange for these, respectively).
+
+Stack Exchange (http://ethereum.stackexchange.com/)
+The Ethereum Stack Exchange is part of the StackExchange network of Q&A communities. StackExchange is a
+free Q&A site where all the questions and answers are preserved for posterity.
+This is the best place to ask technical questions. Help your fellow etherians by answering questions and collect
+reputation points.
+
+Gitter Rooms (https://gitter.im/orgs/ethereum/rooms)
+
+Gitter is our forum of choice for daily chat. It is the virtual coworking space where devs hang out, so it is where
+you can get quick help and a bit of handholding in needed.
+Gitter uses Github accounts, offers Github integration (notification of pull requests etc), private channels, provides
+markdown formatting, and more.
+Most Gitter channels are organised around particular repositories, or generic topics like research or governance.
+Please choose the appropriate room and keep discussions on topic.
+See the full list of gitter rooms for the Ethereum organisation. Below is the list of active public channels:
+• go-ethereum - about geth (and tools related to the go implementation)
+• cpp-ethereum - about eth (and tools related to the C++ implementation)
+• web3.js - about web3.js, Ethereum JavaScript API library
+• Solidity - The Solidity Contract-Oriented Programming Language
+• serpent - The Serpent language for contract development
+• mist - GUI dapp browser, official wallet app
+• light-client - about light client and the LES protocol
+• research - Ethereum research
+• governance - about dev governance
+• whisper - anonymous datagram publishing
+• swarm - decentralised content storage and distribution network
+• EIPs - discussion of Ethereum Improvement Proposals (EIPs)
+• ethereumjs-lib - a JavaScript library of core Ethereum functions
+• devp2p - ÐV’s p2p network protocol & framework
+
+
+Ethereum Improvement Proposals (EIPs)
+....
+
+Ethereum forum no longer mantained. 
+....
+
+
+1.1.7 The Ethereum Foundation
+
+https://ethereum.org/foundation
+https://ethereum.org/
+
+
+The Ethereum Foundation is a non-profit organization registered in Switzerland, and has the purpose of managing
+the funds that were raised from the Ether Sale in order to best serve the Ethereum and decentralized technology
+ecosystem.
+Founded July 2014 in Switzerland, Stiftung Ethereum’s mission is the promotion of developments of new technologies
+and applications, especially in the fields of new open and decentralized software architectures.
+It is the aim that decentralized and open technologies will be developed, nurtured, promoted and maintaine
+
+Official communication from the Ethereum foundation most often comes in the form of a comprehensive blogpost
+on the Ethereum blog.
+
+https://blog.ethereum.org/
+
+-----
+
+cpp ethhereum dev moved to 
+		https://slock.it/ 
+
+
+(( a working compiler 
+http://ethereum.github.io/browser-solidity/#version=soljson-latest.js
+
+
+---------------------------------------------------
+
+
+Hosted blockchain explorers
+
+https://www.ethernodes.org/network/1
+https://live.ether.camp/
+http://etherscan.io/
+
+Other Resources
+
+https://www.ethernodes.org/network/1    (Geographic distribution of nodes and split by client)
+http://www.etherlisten.com/             (Realtime Ethereum transaction visualizer and audializer)
+
+
+
+Ethereum network stats:
+
+https://ethstats.net/
+https://www.ethernodes.org/network/1
+https://etherchain.org/nodes
+
+
+EtherNodes - Geographic distribution of nodes and split by client
+
+
+Blockchain explorers.
+https://www.etherchain.org/
+
+

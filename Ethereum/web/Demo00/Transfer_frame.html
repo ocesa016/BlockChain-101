@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style1.css">
+  </head> 
+<body>
+
+<form action="/doTransfer" method="get" target="resultframe"> 
+
+ <section>
+    <h2>Transfer Information</h2>
+    
+    <p>
+      <label for="user1">
+        <span>From:</span>
+        <select id="user1" name="from">
+          <option value="0" selected>Zero</option>
+          <option value="1">One</option>
+          <option value="2">Two</option>
+          <option value="3">Three</option>          
+        </select>
+      </label>
+    </p>
+    <p>
+      <label for="user2">
+        <span>To:</span>
+        <select id="user2" name="to">
+          <option value="0">Zero</option>
+          <option value="1" selected>One</option>
+          <option value="2">Two</option>
+          <option value="3">Three</option>          
+        </select>
+      </label>
+    </p>
+
+    <p>
+      <label for="number">
+        <span>Amount:</span>
+         <input type="text" id="number" name="amount" value="1">
+      </label>
+    </p>
+    </section>
+
+    <section>
+    <p>
+        <input type="submit" value="Submit">    </p>
+  </section>
+
+</form> 
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+
+<html>
+<body>
+<H3>Block Chain </H3>
+<br>We can define a transaction as:
+<BR><BR><I> APPLY(Status,Transaction) -> Status' or Error</I>
+<br><BR>Where the applicatiom of <B>Transaction</B> to a <B>Status</B> can result in a 
+new status <B>Status'</B> or in an <B>Error</B> 
+<BR>
+<BR>In our the banking example described below where Alice gives a check to Lucy.
+<BR><BR><I>APPLY({ Alice: $50, Lucy: $50 },"send $20 from Alice to Lucy") = { Alice: $30, Lucy: $70 }</I>
+<BR>or:
+<BR><I>APPLY({ Alice: $50, Lucy: $50 },"send $70 from Alice to Lucy") = ERROR</I>
+<BR> 
+<br>Transaction validation, recording and ledger (libro mastro) are mantained by a <B>central authority</B>.
+<br>
+<img src="img_check.jpg" alt="Dilbert Picture">
+<br>
+<br>
+<hr>
+<br><a href="blkchain00_frame.html">[ Previous ]</a> Block Chain <a href="blkchain02_frame.html">[ Next ]</a>
+<br>
+<br> 
+</body>
+</html>

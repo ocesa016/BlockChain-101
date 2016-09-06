@@ -1,0 +1,22 @@
+I0905 18:27:25.428463 ethdb/database.go:82] Alloted 128MB cache and 1024 file handles to C:\Users\Administrator\AppData\Roaming\Ethereum\chaindata
+I0905 18:27:25.549470 ethdb/database.go:169] closed db:C:\Users\Administrator\AppData\Roaming\Ethereum\chaindata
+I0905 18:27:25.553470 ethdb/database.go:82] Alloted 128MB cache and 1024 file handles to C:\Users\Administrator\AppData\Roaming\Ethereum\chaindata
+I0905 18:27:25.635475 ethdb/database.go:82] Alloted 16MB cache and 16 file handles to C:\Users\Administrator\AppData\Roaming\Ethereum\dapp
+I0905 18:27:25.660476 eth/backend.go:170] Protocol Versions: [63 62 61], Network Id: 1987
+I0905 18:27:25.660476 eth/backend.go:199] Blockchain DB Version: 3
+I0905 18:27:25.662477 core/blockchain.go:206] Last header: #104 [896dc154…] TD=13640256
+I0905 18:27:25.662477 core/blockchain.go:207] Last block: #104 [896dc154…] TD=13640256
+I0905 18:27:25.662477 core/blockchain.go:208] Fast block: #104 [896dc154…] TD=13640256
+I0905 18:27:25.665477 p2p/server.go:311] Starting Server
+I0905 18:27:25.670477 p2p/server.go:554] Listening on [::]:30300
+I0905 18:27:25.672477 node/node.go:298] IPC endpoint opened: \\.\pipe\geth.ipc
+I0905 18:27:25.678478 node/node.go:368] HTTP endpoint opened: http://localhost:8544
+I0905 18:27:59.069387 node/node.go:385] HTTP endpoint closed: http://localhost:8544
+I0905 18:27:59.070387 node/node.go:330] IPC endpoint closed: \\.\pipe\geth.ipc
+I0905 18:27:59.070387 core/blockchain.go:565] Chain manager stopped
+I0905 18:27:59.070387 eth/handler.go:200] Stopping ethereum protocol handler...
+I0905 18:27:59.070387 eth/handler.go:221] Ethereum protocol handler stopped
+I0905 18:27:59.070387 core/tx_pool.go:163] Transaction pool stopped
+I0905 18:27:59.070387 eth/backend.go:496] Automatic pregeneration of ethash DAG OFF (ethash dir: C:\Users\Administrator\AppData\Ethash)
+I0905 18:27:59.071387 ethdb/database.go:169] closed db:C:\Users\Administrator\AppData\Roaming\Ethereum\chaindata
+I0905 18:27:59.073388 ethdb/database.go:169] closed db:C:\Users\Administrator\AppData\Roaming\Ethereum\dapp

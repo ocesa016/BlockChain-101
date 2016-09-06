@@ -1,0 +1,28 @@
+
+<html>
+<body>
+<H3>Block Chain </H3>
+<br>Where the nodes agree on the new block
+<UL>
+<br><LI><B>1 </B>The winning node was able to mine the new block 
+<br><LI><B>2 </B>The block is sent to the other nodes
+<br><LI><B>3 </B>The nodes receive the block and validate the block:
+<UL>
+    <LI>Check if the previous block referenced by the block exists and is valid.
+    <br><LI>Check that the timestamp of the block is greater than that of the previous block[2] and less than 2 hours 
+	into the future
+    <br><LI>Check that the proof of work on the block is valid
+    <br><LI>For all transaction in the block <I> APPLY(Status,Transaction) -> Status'</I> to the previous block state
+</UL>           
+<LI><B>4 </B>Block is added to the chanin and mining of new block is started
+</UL>   
+<br>
+<br>
+<img src="img_bcblock.jpg" alt="Block Propagaation">
+<br>
+<br>
+<hr>
+<br><a href="blkchain04_frame.html">[ Previous ]</a> Block Chain <a href="blkchain06_frame.html">[ Next ]</a>
+</body>
+</html>
+
