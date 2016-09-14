@@ -2,6 +2,12 @@
 The BlockChain-101
 ===================
 
+
+1.0.1 / 2016-09-14
+------------------
+  * Updated BlockChainTheory
+
+
 1.0.0 / 2016-09-06
 ------------------
   * Initial Delivery
