@@ -2,6 +2,10 @@
 The BlockChain-101
 ===================
 
+1.0.2 / 2016-09-17
+------------------
+  * Linux Support
+  * Updated BlockChainTheory
 
 1.0.1 / 2016-09-14
 ------------------

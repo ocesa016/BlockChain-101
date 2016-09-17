@@ -2,6 +2,10 @@
 The BockChainTheory
 ===================
 
+0.0.6 / 2016-09-17
+------------------
+  * Updated structure and some content
+
 0.0.5 / 2016-09-14
 ------------------
   * Updated structure and some content
